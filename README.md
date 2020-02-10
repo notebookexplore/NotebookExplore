@@ -32,12 +32,12 @@ There are many ways to contribute NotebookExplore.
 - Review updates
 - Help each other in the community
 
-Read more about the [contributing process and guidelines](https://github.com/notebookexplore/notebookexplore/blob/master/CONTRIBUTING.md).
+Read more about the [contributing process and guidelines](https://github.com/notebookexplore/NotebookExplore/tree/master/.github/CONTRIBUTING.md).
 
 We also welcome collaborators, so feel free to open a [GitHub issue](https://github.com/notebookexplore/notebookexplore/issues/new) to let us know how'd you like to contribute.
 
 ## Connect
 
-- Follow me on Twitter [@NotebookExplore](https://twitter.com/NotebookExplore)
+- Follow the project on Twitter [@NotebookExplore](https://twitter.com/NotebookExplore)
 - Open an [issue](https://github.com/notebookexplore/notebookexplore/issues/new)
 - Slack/Discord (coming soon)
