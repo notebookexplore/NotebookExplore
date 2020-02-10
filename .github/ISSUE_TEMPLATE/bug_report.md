@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[NOTEBOOK PATH] - [ERROR DESCRIPTION]"
+title: "[NOTEBOOK NAME] - [ERROR DESCRIPTION]"
 labels: bug
 assignees: ''
 
