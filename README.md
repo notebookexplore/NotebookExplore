@@ -38,5 +38,6 @@ We also welcome collaborators, so feel free to open a [GitHub issue](https://git
 
 ## Connect
 
+- Follow me on Twitter [@NotebookExplore](https://twitter.com/NotebookExplore)
 - Open an [issue](https://github.com/notebookexplore/notebookexplore/issues/new)
 - Slack/Discord (coming soon)
