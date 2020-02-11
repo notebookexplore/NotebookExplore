@@ -18,6 +18,7 @@ If you are new to machine learning, explore the Getting Started notebooks for Py
 
 
 - [Getting Started](https://github.com/notebookexplore/notebookexplore/blob/master/getting-started)
+- [Audio Processing](https://github.com/notebookexplore/notebookexplore/blob/master/audio-processing)
 - [Generative Adversarial Network (GAN)](https://github.com/notebookexplore/notebookexplore/blob/master/generative-adversarial-network)
 - [Natural Language Processing (NLP)](https://github.com/notebookexplore/notebookexplore/blob/master/natural-language-processing)
 - [Image Processing](https://github.com/notebookexplore/notebookexplore/blob/master/image-processing)
