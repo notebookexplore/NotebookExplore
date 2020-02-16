@@ -6,7 +6,7 @@
 A collection of #MachineLearning #Python Notebooks 🤖 🐍📚 that can be launched to the ☁️ for use and experimentation. No setup needed, just launch it 🚀
 
 <p align="center">
-  <img src="http://www.giphy.com/gifs/RIYlIRGzprr4kkvCDl" alt="NotebookExplore Demo" />
+  <img src="https://media.giphy.com/media/XgZBObyIaSlRvjNHxx/giphy.gif" alt="NotebookExplore Demo" />
 </p>
 
 ## Table of Contents
