@@ -23,6 +23,7 @@ If you are new to machine learning, explore the Getting Started notebooks for Py
 - [Natural Language Processing (NLP)](https://github.com/notebookexplore/notebookexplore/blob/master/natural-language-processing)
 - [Image Processing](https://github.com/notebookexplore/notebookexplore/blob/master/image-processing)
 - [Reinforcement Learning](https://github.com/notebookexplore/notebookexplore/blob/master/reinforcement-learning)
+- [Transfer Learning](https://github.com/notebookexplore/NotebookExplore/tree/master/transfer-learning)
 
 ## Contribute
 
