@@ -21,6 +21,7 @@ A collection of #MachineLearning #Python Notebooks 🤖 🐍📚 that can be lau
 - [Natural Language Processing (NLP)](https://github.com/notebookexplore/notebookexplore/blob/master/natural-language-processing)
 - [Image Processing](https://github.com/notebookexplore/notebookexplore/blob/master/image-processing)
 - [Reinforcement Learning](https://github.com/notebookexplore/notebookexplore/blob/master/reinforcement-learning)
+- [Transfer Learning](https://github.com/notebookexplore/NotebookExplore/tree/master/transfer-learning)
 
 ## Contribute
 
