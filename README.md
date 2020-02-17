@@ -34,7 +34,7 @@ There are many ways to contribute NotebookExplore.
 
 Read more about the [contributing process and guidelines](https://github.com/notebookexplore/NotebookExplore/tree/master/.github/CONTRIBUTING.md).
 
-We also welcome collaborators, so feel free to open a [GitHub issue](https://github.com/notebookexplore/notebookexplore/issues/new) to let us know how'd you like to contribute.
+We also welcome collaborators, so feel free to open a [GitHub issue](https://github.com/notebookexplore/NotebookExplore/issues/new/choose) to let us know how'd you like to contribute.
 
 ## Connect
 
